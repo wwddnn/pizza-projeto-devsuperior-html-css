@@ -26,4 +26,12 @@
 
 ## ↗️Tecnologias 
 - Desenvolvimento Front end
-- VSCODE IDE
+- vscode IDE
+
+## 🔦Preview
+- Preview do projeto no figma:
+![figma pizza projeto devsuperior html css](https://github.com/user-attachments/assets/4395d004-ed16-4a86-8ef9-209bf29e2b05)
+
+- Preview do projeto feito em front end com IDE vscode e com tecnologias html e css:
+![site pizza projeto devsuperior html css](https://github.com/user-attachments/assets/ee7b340e-888d-406b-9e7d-07982da88e2b)
+
